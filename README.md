@@ -1,6 +1,6 @@
 # Art Deco Memory Game
 
-## Deployed on Heroku: https://cryptic-everglades-73436.herokuapp.com/
+## Deployed on GitHub pages: https://bleauwonder.github.io/matching-cities-game/
 -----------------------------------------------------------------------------
 ![Art Deco Memory Game screenshot](./public/assets/images/ArtDeco-game.png)
 ----------------------------------------------------------------------------------------
